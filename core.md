@@ -1,3 +1,3 @@
 #ballet
 
-hi stupid
+hi pretty
